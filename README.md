@@ -15,9 +15,6 @@ This FiveM script is a complete carlock system with a wide range of features and
 - Lock/unlock sounds (as GTA sounds).
 - Numerous configurable settings available in the `config.lua`.
 
-# 👀 Usage
-This script is used to save players outfits and let them manage them.
-
 # 📹 Preview
 Click [HERE](https://streamable.com/8h77ce) to watch the preview.
 
