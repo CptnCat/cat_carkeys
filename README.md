@@ -12,7 +12,7 @@ This FiveM script is a complete carlock system with a wide range of features and
 - Configure whether stolen keys reset after a script restart.
 - Lock/unlock your vehicle (integrated carlock system).
 - Lock/unlock spam protection.
-- Lock/unlock sounds (GTA sounds included).
+- Lock/unlock sounds (as GTA sounds).
 - Numerous configurable settings available in the `config.lua`.
 
 # 👀 Usage
